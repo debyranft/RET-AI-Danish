@@ -3,7 +3,7 @@
 Build and analyze a collaborative, distributed Large Language Model (LLM) system across your laptop and a remote GPU server. Then, simulate how a malicious network middleman can exploit this design, and deploy cryptographic defenses to secure it.
 
 **Mentors:** Dr. Xiaoxue Zhang and Mr. Md Omer Danish (PhD student)  
-*Department of Computer Science & Engineering, University of Nevada, Reno*
+*Department of Computer Science & Engineering, University of Nevada, Reno
 
 ---
 
