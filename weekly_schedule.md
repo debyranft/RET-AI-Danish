@@ -2,7 +2,6 @@
 
 This document outlines the weekly milestones and core concepts for the K14 teachers completing the **Trustless Edge-Cloud Speculative Decoding** project.
 
-Hello how are you?
 
 
 
